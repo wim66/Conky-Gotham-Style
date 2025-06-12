@@ -162,7 +162,7 @@ function conky_draw_text()
       font_size = 48,
       h_align = "l",
       bold = false,
-      x = 260,
+      x = 286,
       y = 80,
       reflection_alpha = 0.66,
       reflection_scale = 0.66,
