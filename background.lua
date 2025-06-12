@@ -37,12 +37,12 @@ boxes_settings = {
     type = "layer2",
     x = 0,
     y = 0,
-    w = 418,
-    h = 256,
+    w = 460,
+    h = 116,
     centre_x = true,
     corners = { 20, 20, 20, 20 },
     draw_me = false,
-    linear_gradient = { 0, 0, 0, 200 },
+    linear_gradient = { 0, 0, 0, 116 },
     colours = { { 0, 0xFFFFFF, 0.05 }, { 0.5, 0xC2C2C2, 0.1 }, { 1, 0xFFFFFF, 0.05 } },
   },
 
@@ -58,7 +58,7 @@ boxes_settings = {
     draw_me = true,
     border = 4,
     colour = { { 0, 0x999999, 0.33 }, { 0.5, 0xffffff, 1 }, { 1, 0x999999, 0.33 } },
-    linear_gradient = { 0, 0, 440, 0 },
+    linear_gradient = { 0, 0, 460, 0 },
   },
 }
 
